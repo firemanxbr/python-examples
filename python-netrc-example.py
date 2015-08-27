@@ -11,5 +11,4 @@ get = netrc.netrc("netrc-file")
 """
 Get login, account and password of netrc file
 """
-print (get.authenticators('my-host'))
-
+print(get.authenticators('my-host'))
