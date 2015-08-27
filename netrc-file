@@ -1,0 +1,4 @@
+machine my-host
+login my-login
+account my-account
+password my-great-password
