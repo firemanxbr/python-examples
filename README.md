@@ -1,2 +1,2 @@
 # python-examples
-Samples of my Python code
+Repository to share the codes developed to study deeply the Python Language
