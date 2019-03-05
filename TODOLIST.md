@@ -1,6 +1,32 @@
 # TODO
 
-The list of subjects 
+## Data Structures
+
+* Array
+* Linked List
+* Binary Tree, Binary Search Tree, Red-Black Tree
+* Heap
+* Hash Table
+* Stack
+* Queue
+* Trie
+* Graph (both directed and undirected)
+
+## Algorithms
+
+### Sorting
+
+* Bubble Sort
+* Merge Sort
+* Quick Sort
+* Radix/Bucket Sort
+
+### Traversals (On multiple data structures)
+
+* Depth First Search
+* Breadth First Search
+
+## The list of subjects(not classified)
 
 * Singleton
 * Super
@@ -11,7 +37,7 @@ The list of subjects
 * List/set/dictionary comprehension
 * Generators
 * Dictionaries and Sets
-* Monkey patch and Mock	
+* Monkey patch and Mock
 * Inheritance/Multiple-inheritance
 * Unicode bytecode strings
 * Hash function
