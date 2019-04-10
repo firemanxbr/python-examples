@@ -6,7 +6,7 @@ Input: my[001..900].domain.com
 Output: my001.domain.com, my002.domain.com, ... my900.domain.com
 """
 
-def hosts_generate(inventory):
+def generate_hosts(inventory):
     """
     Function that will generates a list of hosts based
     in the specific string 'my[001..900].domain.com'
@@ -35,4 +35,4 @@ def hosts_generate(inventory):
 
 
 if __name__ == "__main__":
-    print(hosts_generate(inventory='my[001..900].domain.com'))
+    print(generate_hosts(inventory='my[001..900].domain.com'))
